@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Punto4</string>
+
+    <string name="Usser">Usuario: </string>
+    <string name="password">Contraseña: </string>
+    <string name="repetirPassword">Repetir Contraseña: </string>
+    <string name="correo">Correo Electronico: </string>
+    <string name="sexo">Sexo: </string>
+    <string name="male">Masculino</string>
+    <string name="female">Femenino</string>
+
+    <string name="fechaNacimiento">Fecha de Naciomiento:</string>
+    <string name="lugarNacimiento">Lugar de Nacimiento: </string>
+    <string name="Hobbies">Hobbies: </string>
+    <string name="bAceptar">Aceptar</string>
+    <string name="formulario3">FORMULARIOTRON 3000</string>
+
+
+</resources>

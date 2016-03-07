@@ -1,0 +1,16 @@
+
+<resources>
+    <string name="app_name">Punto 2</string>
+    <string name="bSuma">Suma</string>
+    <string name="bResta">Resta</string>
+    <string name="bMultiplicacion">Multiplicacion</string>
+    <string name="bDivision">Division</string>
+    <string name="bCalcular">Calcular</string>
+    <string name="operando1">Operador #1:</string>
+    <string name="operando2">Operador #2:</string>
+    <string name="resultado">Resultado:</string>
+    <string name="seleccion">Seleccione la operacion</string>
+
+
+
+</resources>

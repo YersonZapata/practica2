@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Punto3</string>
+    <string name="seleccion">Seleccione una figura de interes</string>
+    <string name="triangulo">Triangulo</string>
+    <string name="cuadrado">Cuadrado</string>
+    <string name="circulo">Circulo</string>
+    <string name="rectangulo">Rectangulo</string>
+    <string name="area">Area</string>
+    <string name="lado">Lado: </string>
+    <string name="lado1">Lado1: </string>
+    <string name="lado2">Lado 2: </string>
+    <string name="altura">Altura: </string>
+    <string name="base">Base: </string>
+    <string name="radio">Radio: </string>
+    <string name="resultado">Area: </string>
+    <string name="bCalcular">Calcular</string>
+</resources>
